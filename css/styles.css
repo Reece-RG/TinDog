@@ -1,0 +1,133 @@
+#title {
+  background-color: #FF4C68;
+}
+h1 {
+  font-size: 3.5rem;
+  line-height: 1.5;
+  color: white;
+}
+h2 {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+.title-button {
+  margin-right: 2%;
+  margin-top: 4%;
+  font-family: 'Montserrat-light', sans-serif;
+}
+.navbar-brand {
+  font-family: Ubuntu;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.row {
+  margin-top: 5%;
+}
+.container-fluid {
+  padding: 3% 15% 7% 15%;
+}
+.container {
+  padding-left: 0;
+  padding-bottom: 4.5rem;
+  padding-right: 0;
+}
+.rowtitle {
+  padding-bottom: 0.5%;
+}
+.nav-item {
+  padding: 0 18px;
+}
+.nav-link {
+  font-size: 1.2rem;
+  font-family: 'Montserrat-light', sans-serif;
+}
+.title-img {
+  width: 50%;
+  transform: rotate(25deg);
+  position: absolute;
+}
+.divimg {
+  position: relative;
+  padding-left: 12%;
+}
+.feath3 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+}
+.featp {
+  font-family: 'Montserrat-Light', sans-serif;
+  color: #8f8f8f;
+}
+.icon {
+  color: #ef8172;
+  padding-bottom: 1rem;
+}
+#features {
+  text-align: center;
+  border: 3% 0;
+  background-color: white;
+  position: relative;
+}
+.icon:hover {
+  color: #ff4c68;
+}
+#testimonials {
+  text-align: center;
+  background-color: #ef8172;
+}
+.testi {
+  color: white;
+}
+.testimg {
+  width: 15%;
+  border-radius: 100%;
+  margin: 1.5%;
+}
+em {
+  font-family: 'Montserrat-light', sans-serif;
+}
+#press {
+  background-color: #ef8172;
+  text-align: center;
+  padding: 0 7% 6% 7%;
+}
+.pressimg {
+  width: 15%;
+  margin: 0 2%;
+}
+.carousel-item {
+   padding: 6% 14%;
+}
+#pricing {
+  text-align: center;
+  padding: 6% 10%;
+}
+.pricetext {
+  font-family: 'Montserrat-light', sans-serif;
+  color: #8f8f8f;
+}
+#cta {
+  background-color: #ff4c68;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  padding: 6% 20%;
+}
+.ctah {
+  font-size: 3rem;
+  color: white;
+}
+footer {
+  background-color: #fff;
+  text-align: center;
+  font-family: 'Montserrat-light', sans-serif;
+  padding: 6% 0%;
+}
+.footp {
+  color: #8f8f8f;
+}
+.ifoot {
+  padding: 1% 0.5%;
+}
