@@ -1,1 +1,1 @@
-TinDog Starting Files
+First HTML/CSS project that includes Bootstrap framework.
